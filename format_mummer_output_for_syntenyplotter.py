@@ -12,7 +12,7 @@ import pandas as pd
 #create a list for files in folder
 read_files = []
 #put all the alignment files in a list
-for file in glob.glob('/Users/glombik/Library/CloudStorage/OneDrive-NorwichBioscienceInstitutes/morris_lab/assembly_qc/synteny_analysis/brapa/rt_ro18/' + 'filtered*.txt',recursive=True):
+for file in glob.glob('/path/to/files/file*.txt',recursive=True):
     read_files.append(file)
 
 #run the whole transformation in a loop on all files
