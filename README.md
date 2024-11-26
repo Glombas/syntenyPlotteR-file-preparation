@@ -34,13 +34,14 @@ Nucmer output example:
 >-1
 
 
-Transformed output example:
+Transformed output example in csv format:
 
 >CM060803.1,1940,7793,A01,107905,113811,+
 
 >CM060803.1,7787,8590,A01,119088,119886,+
 
 >CM060803.1,8962,15034,A01,125428,131495,+
+
 
 ### Requirements: glob, numpy, pandas
 
