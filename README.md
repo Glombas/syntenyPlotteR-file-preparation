@@ -1,5 +1,5 @@
 # syntenyPlotteR-file-preparation
-Here is a python script that takes a [mummer](https://mummer.sourceforge.net/) (nucmer) alignment output and transfers it into a form suitable for the package [syntenyPlotteR](https://github.com/Farre-lab/syntenyPlotteR) in R.
+Here is a python script that takes a [mummer](https://mummer.sourceforge.net/) (nucmer) alignment output and transforms it into a form suitable for the package [syntenyPlotteR](https://github.com/Farre-lab/syntenyPlotteR) in R.
 
 ### Requirements: glob, numpy, pandas
 
